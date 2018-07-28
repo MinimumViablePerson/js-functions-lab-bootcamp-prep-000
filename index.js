@@ -10,4 +10,10 @@ const happyHolidayTo = (holiday, name) =>
   
 const holidayCountdown = (holiday, days) =>
   `It's ${days} days until ${holiday}!`
-  
+
+module.exports = {
+  happyHolidays,
+  happyHolidaysTo,
+  happyHolidayTo,
+  holidayCountdown
+}
