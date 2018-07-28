@@ -1,4 +1,5 @@
 /*global describe, it*/
+const {  }
 
 describe('functions', () => {
   describe('happyHolidays', () => {
