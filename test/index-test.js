@@ -1,5 +1,10 @@
 /*global describe, it*/
-const {  }
+const {
+  happyHolidays,
+  happyHolidaysTo,
+  happyHolidayTo,
+  holidayCountdown
+} = require('../index.js')
 
 describe('functions', () => {
   describe('happyHolidays', () => {
